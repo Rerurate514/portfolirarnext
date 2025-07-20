@@ -3,7 +3,7 @@ const nextConfig = {
   // experimental: {
   //   runtime: 'edge',
   // },
-  distDir: '.vercel',
+  distDir: '.vercel/output/static',
 }
 
 module.exports = nextConfig
